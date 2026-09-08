@@ -1,0 +1,6 @@
+{
+  "name": "Global Weather & Air Quality Cross Viewer",
+  "description": "Compare real-time weather and air quality across major world cities with 20-language i18n, cross-city metrics, and state sharing.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
